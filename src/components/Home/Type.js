@@ -9,7 +9,7 @@ function Type() {
           "Developer",
           "Designer",
           "Programmer",
-          "Open Source Contributor",
+          "Art Enthusiast",
         ],
         autoStart: true,
         loop: true,
