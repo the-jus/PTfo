@@ -12,7 +12,6 @@ function Github() {
         username="the-jus"
         blockSize={15}
         blockMargin={5}
-        // color="#c084f5"
         color="red"
         fontSize={16}
       />
