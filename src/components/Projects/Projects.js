@@ -26,7 +26,7 @@ function Projects() {
               imgPath={mpac}
               isBlog={false}
               title=" MPAC"
-              description="MPAC is the short forMace Preowned Student Accesories which was done as part of Desgn Project of B-tech.A website for purchasing and selling pre-owned student accessories.Website is mainly designed for Engineering Students similar to OLX.Users can also interact with each other through contacting each other."
+              description="MPAC is the short forMace Preowned Student Accesories which was done as part of Design Project of B-tech.A website for purchasing and selling pre-owned student accessories.Website is mainly designed for Engineering Students similar to OLX.Users can also interact with each other through contacting each other."
               ghLink="https://github.com/the-jus/MPAC"
               // demoLink="https://chatify-49.web.app/"
             />
