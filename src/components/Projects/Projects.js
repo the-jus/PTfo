@@ -28,7 +28,6 @@ function Projects() {
               title=" MPAC"
               description="MPAC is the short forMace Preowned Student Accesories which was done as part of Design Project of B-tech.A website for purchasing and selling pre-owned student accessories.Website is mainly designed for Engineering Students similar to OLX.Users can also interact with each other through contacting each other."
               ghLink="https://github.com/the-jus/MPAC"
-              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
@@ -39,7 +38,6 @@ function Projects() {
               title="BloodBank"
               description="It is a blood donation app done by a group of 6 students as part of IBM ISL code challenge.It has dynamic location update facility and has been succesfully completed in a span of 3 weeks.Users can login as a donor or reciever acccording to their need "
               ghLink="https://github.com/the-jus/2022_IBM_Code_Challenge_BloodBank"
-              // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -49,8 +47,7 @@ function Projects() {
               isBlog={false}
               title="OPA_WF"
               description="Ocean Pattern Analysis and weather forecasting.This was done as part of final year project of BTECH.It utilizes VAR methodology and predicts weather critical points across the world map."
-              ghLink="https://github.com/OPAWF"
-              // demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com/OPAWF"            
             />
           </Col>
 
